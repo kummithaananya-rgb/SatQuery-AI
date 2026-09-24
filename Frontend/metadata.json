@@ -1,0 +1,6 @@
+{
+  "name": "SatQuery AI",
+  "description": "Interactive Vision-Language Assistant for multimodal remote sensing image analysis through natural-language queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
